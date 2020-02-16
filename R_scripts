@@ -1,4 +1,7 @@
 Various scripts for manipulating raw data from commercial companies
+Download raw data files from web site
+Import raw .txt data files:
+  <df> <-read.delim("path/to/raw-data-file.txt", comment.char="#")
 # 23andMe
 # Ancestry.com
 # DanteLabs
